@@ -1,3 +1,11 @@
-## My name is Flávia and my nickname is "Lavi – Técnico em Desenvolvimento de Sistemas
+import Desenvolvedor from "lavi";
 
-| Front-end e Back-end
+class Lavi extends Desenvolvedor {
+  nome = "Flávia";
+  area = "Desenvolvimento de Sistemas";
+  local = "Sesi/Senai Joinville";
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = ["C++", "Python", "Ruby", "Lua"];
+}
