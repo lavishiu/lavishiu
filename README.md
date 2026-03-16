@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
   </a>
   <a href="[https://www.chess.com/member/glorffindel](https://x.com/negw4r)" target="_blank" >
-    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/:user">
+    <img alt="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
 </p>
 
