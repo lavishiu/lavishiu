@@ -21,26 +21,25 @@
 <br/>
 
 <p>
-  Olá! Eu me chamo <em><b>Lavi</b></em> e sou estudante de Desenvolvimento de Sistemas. 
+  Olá! MEu nome é <em><b>Lavi</b></em>, sou estudante de Desenvolvimento de Sistemas. 
 Gosto de programar, aprender novas linguagens e resolver desafios de código.
 
 Atualmente estou desenvolvendo sites utilizando HTML e CSS, além de criar 
-alguns projetos pessoais para praticar e aprimorar minhas habilidades.
+alguns projetos pessoais para praticar minhas habilidades.
 </p>
 
 
 <br/>
 
 <p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the National University of Costa Rica (UNA) </b></em> <br/>
-   <img src="/imgs/img4.png" width="15"/>   <em><b> Private tutor in C++ at the University </b></em><br/>
-   <img src="/imgs/img2.png" width="15"/>   <em><b> Competitor in the ICPC (2025) </b></em><br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Chess Player  </b></em><br/>
+   <img src="/imgs/img4.png" width="15"/>   <em><b> Ex-mentora da  FIRST® LEGO® League Challenge (FLL)
+   <img src="/imgs/img2.png" width="15"/>   <em><b> Estudante de Cibersegurança
+   <img src="/imgs/img1.png" width="15"/>   <em><b> Jogadora de Sudoku e Xadrez  </b></em><br/>
 </p>
 
 <br/>
 <br/>
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
+<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Linguagens </em> </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
