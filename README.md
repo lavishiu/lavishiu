@@ -42,7 +42,7 @@ alguns projetos pessoais para praticar minhas habilidades.
 
 <br/>
 <br/>
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Linguagens </em> </h2>
+<h2 align="center"> <img src="/imgs/titulo1.png" width="25"/> <em> Linguagens </em> </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
