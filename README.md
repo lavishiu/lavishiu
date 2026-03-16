@@ -1,4 +1,4 @@
-<img src = "githubanner.JPG"/>
+<img src = "githubanner.png"/>
 
 <p align="center">
   <a href="https://br.pinterest.com/Frostinye/" target="_blank">
