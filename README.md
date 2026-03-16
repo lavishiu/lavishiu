@@ -15,13 +15,17 @@
 
 <br>
 
-<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
+<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>Sobre mim </em></h2>
 
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Benjamin Solano </b></em>, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
+  Olá! Eu me chamo <em><b>Lavi</b></em> e sou estudante de Desenvolvimento de Sistemas. 
+Gosto de programar, aprender novas linguagens e resolver desafios de código.
+
+Atualmente estou desenvolvendo sites utilizando HTML e CSS, além de criar 
+alguns projetos pessoais para praticar e aprimorar minhas habilidades.
 </p>
 
 
