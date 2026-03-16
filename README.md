@@ -15,13 +15,13 @@
 
 <br>
 
-<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>Sobre mim </em></h2>
+<h2 align="center"> <img src="/imgs/img3.png" width="25"/> <em>Sobre mim </em></h2>
 
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 
 <p>
-  Olá! MEu nome é <em><b>Lavi</b></em>, sou estudante de Desenvolvimento de Sistemas. 
+  Olá! Meu nome é <em><b>Lavi</b></em>, sou estudante de Desenvolvimento de Sistemas. 
 Gosto de programar, aprender novas linguagens e resolver desafios de código.
 
 Atualmente estou desenvolvendo sites utilizando HTML e CSS, além de criar 
@@ -33,7 +33,9 @@ alguns projetos pessoais para praticar minhas habilidades.
 
 <p align="center">
    <img src="/imgs/img4.png" width="15"/>   <em><b> Ex-mentora da  FIRST® LEGO® League Challenge (FLL)
+     
    <img src="/imgs/img2.png" width="15"/>   <em><b> Estudante de Cibersegurança
+   
    <img src="/imgs/img1.png" width="15"/>   <em><b> Jogadora de Sudoku e Xadrez  </b></em><br/>
 </p>
 
