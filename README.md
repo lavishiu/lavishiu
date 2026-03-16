@@ -4,7 +4,7 @@
   <a href="https://br.pinterest.com/Frostinye/" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
   </a>
-  <a href="https://www.chess.com/member/glorffindel" target="_blank">
+  <a href="https://www.chess.com/member/lavishiu" target="_blank">
     <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
   </a>
   <a href="[https://www.chess.com/member/glorffindel](https://x.com/negw4r)" target="_blank" >
