@@ -35,7 +35,7 @@ alguns projetos pessoais para praticar minhas habilidades.
   
    <img src="/imgs/img4.png" width="15"/>   <em><b> Ex-mentora da  FIRST® LEGO® League Challenge
      
-   <img src="/imgs/img2.png" width="15"/>   <em><b> Estudante de Cibersegurança
+   <img src="/imgs/img2.png" width="15"/>   <em><b> Estudante de Cibersegurança no tempo livre
    
    <img src="/imgs/img1.png" width="15"/>   <em><b> Jogadora de Sudoku e Xadrez  </b></em><br/>
 </p>
@@ -46,7 +46,6 @@ alguns projetos pessoais para praticar minhas habilidades.
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white" />
