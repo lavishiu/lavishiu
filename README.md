@@ -21,7 +21,7 @@
 <br/>
 
 <p>
-  Olá! Meu nome é <em><b>Lavi</b></em>, sou estudante de Desenvolvimento de Sistemas. 
+  Olá! Meu nome é <em><b>Flávia</b></em> mas sou mais conhecida como <em><b>Lavi</b></em>, sou estudante de Desenvolvimento de Sistemas. 
 Gosto de programar, aprender novas linguagens e resolver desafios de código.
 
 Atualmente estou desenvolvendo sites utilizando HTML e CSS, além de criar 
