@@ -1,18 +1,5 @@
 <img src = "githubanner.png"/>
 
-<p align="center">
-  <a href="https://br.pinterest.com/Frostinye/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
-  </a>
-  <a href="https://www.chess.com/member/lavishiu" target="_blank">
-    <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
-  </a>
-  <a href="[https://www.chess.com/member/glorffindel](https://x.com/negw4r)" target="_blank" >
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-</p>
-
-
 <br>
 
 <h2 align="center"> <img src="/imgs/img3.png" width="25"/> <em>Sobre mim </em></h2>
